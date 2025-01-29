@@ -21,7 +21,7 @@ php artisan test
 ### Steps
 1. Clone the repository
 ```bash
-git clone https://github.com/RoyHridoy/haven-hopper.git
+git clone https://github.com/glCoder8/haven-hopper.git
 cd haven-hopper
 ```
 
