@@ -1,27 +1,9 @@
-## 🤝 Contribution
-Run Following commands before give a PR
-
-### To maintain codebase we use [larastan](https://github.com/larastan/larastan), Please maintain rules.
-1. Run Static Analysis Tool to check you have no error
-```bash
-composer analyse
-```
-
-### You have to ensure that you write tests for every feature you build
-2. Check all tests are ok
-```bash
-php artisan test
-```
-
-## Remember, If all of above provides no error, your code will be merged
-
-
 ## 🚀 Installation Guide
 
 ### Steps
 1. Clone the repository
 ```bash
-git clone https://github.com/RoyHridoy/haven-hopper.git
+git clone https://github.com/glCoder8/haven-hopper.git
 cd haven-hopper
 ```
 
@@ -56,3 +38,4 @@ php artisan serve
 ```bash
 npm run dev
 ```
+
